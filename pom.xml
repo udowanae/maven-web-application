@@ -5,8 +5,8 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1</version>
-	<!-- <version>0.0.1-SNAPSHOT</version> -->
+	<!-- <version>0.0.1</version> -->
+	<version>0.0.1-SNAPSHOT</version> 
 	
 	<name>maven-web-application</name>
 
@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://100.26.28.15:8081/repository/PayPal-release/</url>
+	      <url>http://184.73.131.237:8081/repository/PayPal-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http:http://100.26.28.15:8081/repository/PayPal-snapshot/</url>
+	      <url>http://184.73.131.237:8081/repository/PayPal-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
